@@ -6,7 +6,7 @@ ref : https://github.com/fatih/color.git
 go get github.com/fatih/color
 ```
 
-## Examples
+## Run
 
 ### Standard colors
 
