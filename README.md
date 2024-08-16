@@ -13,8 +13,8 @@ Base URL: http://api.weatherapi.com/v1  +  	/forecast.json or /forecast.xml + yo
 
 ## Build
 
-```Build the cli 
-go run ./main.go
+``` Build the cli application 
+go build
 
 ```
 
