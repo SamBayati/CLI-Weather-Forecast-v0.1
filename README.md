@@ -27,8 +27,8 @@ go run ./main.go
 
 ### Run for an specific city
 // run this command if you like to look up an specific city other than the default one
+
 go run ./main.go "name of the city"
-// for example
 go run ./main new york
 
 ```
