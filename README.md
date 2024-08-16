@@ -1,6 +1,6 @@
 
 ## Dependencies 
-# Install Dependencies for adjusting the colours from the  ** color ** Repo on GitHub
+### Install Dependencies for adjusting the colours from the  ** color ** Repo on GitHub
 
 ref : https://github.com/fatih/color.git 
 
