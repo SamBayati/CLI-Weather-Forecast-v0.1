@@ -7,7 +7,7 @@ ref : https://github.com/fatih/color.git
 ```bash
 go get github.com/fatih/color
 ```
-
+### 2. Head to https://www.weatherapi.com/docs/#intro-location and get your API key
 
 
 ## Run
