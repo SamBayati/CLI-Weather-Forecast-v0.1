@@ -33,7 +33,9 @@ go run ./main new york
 
 ```
 
-### Adding the command to the windows
+### Adding the Cli application to your 
 
-```go
-// go th
+```
+// mv Breadcrumbs CLI-Weather-Forecast-v0.1 /usr/local/bin 
+
+
