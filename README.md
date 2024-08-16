@@ -11,7 +11,7 @@ go get github.com/fatih/color
 Base URL: http://api.weatherapi.com/v1  +  	/forecast.json or /forecast.xml + your api key + q = city's name
 
 
-## Run
+## Build
 
 ### Default running
 
