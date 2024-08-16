@@ -8,6 +8,7 @@ ref : https://github.com/fatih/color.git
 go get github.com/fatih/color
 ```
 ### 2. Head to https://www.weatherapi.com/docs/#intro-location and get your API key
+Base URL: http://api.weatherapi.com/v1  +  	/forecast.json or /forecast.xml + your api key + q = the city
 
 
 ## Run
