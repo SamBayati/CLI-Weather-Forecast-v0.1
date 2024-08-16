@@ -10,8 +10,7 @@ go get github.com/fatih/color
 
 ### Standard colors
 
-```go
-// Print the cli app
+```Print the cli app
 go run ./main.go
 
 // run this command if you like to look up an specific city other than the default one
