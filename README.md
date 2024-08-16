@@ -15,7 +15,6 @@ Base URL: http://api.weatherapi.com/v1  +  	/forecast.json or /forecast.xml + yo
 
 ``` 
 go build
-
 ```
 
 ### Default running
@@ -37,5 +36,7 @@ go run ./main new york
 
 ```
 // mv Breadcrumbs CLI-Weather-Forecast-v0.1 /usr/local/bin 
+```
 
 
+### Adding the Cli application to your 
