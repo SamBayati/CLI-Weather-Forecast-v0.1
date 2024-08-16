@@ -13,10 +13,11 @@ Base URL: http://api.weatherapi.com/v1  +  	/forecast.json or /forecast.xml + yo
 
 ## Run
 
-### Standard colors
+### Default running
 
-```Print the cli app
+```Run the cli app
 go run ./main.go
+
 
 // run this command if you like to look up an specific city other than the default one
 go run ./main.go "name of the city"
