@@ -23,6 +23,9 @@ go build
 go run ./main.go
 ```
 
+![image](https://github.com/user-attachments/assets/581389a0-cbb0-45b5-b2cc-40a8784e467a)
+
+
 ### Run with an specific city
 // run this command if you like to look up an specific city other than the default one
 ```
