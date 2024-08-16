@@ -21,7 +21,6 @@ go build
 
 ```Run the cli app
 go run ./main.go
-
 ```
 
 ### Run with an specific city
@@ -38,5 +37,12 @@ go run ./main new york
 // mv Breadcrumbs CLI-Weather-Forecast-v0.1 /usr/local/bin 
 ```
 
+### Run from the terminal 
 
-### Adding the Cli application to your 
+```
+CLI-Weather-Forecast-v0.1
+
+#### or
+
+CLI-Weather-Forecast-v0.1 new york 
+```
