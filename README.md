@@ -1,4 +1,11 @@
 
+
+
+![image](https://github.com/user-attachments/assets/581389a0-cbb0-45b5-b2cc-40a8784e467a)
+
+
+
+
 ## Dependencies 
 ### 1. Install Dependencies for adjusting the colours from the  ** color ** Repo on GitHub
 
@@ -23,7 +30,6 @@ go build
 go run ./main.go
 ```
 
-![image](https://github.com/user-attachments/assets/581389a0-cbb0-45b5-b2cc-40a8784e467a)
 
 
 ### Run with an specific city
