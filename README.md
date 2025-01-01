@@ -38,7 +38,7 @@ go run ./main new york
 
 ```
 
-### Adding the Cli application to your 
+### Adding the Cli application to your bin dirc (Linux)
 
 ```
 // mv Breadcrumbs CLI-Weather-Forecast-v0.1 /usr/local/bin 
